@@ -28,8 +28,8 @@ You can set a couple of options.
 # CLI
 
 ```shell
-correcthorse
-//
+$ correcthorse
+correct-horse-battery-staple
 ```
 
 # License
