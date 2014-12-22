@@ -1,0 +1,19 @@
+{
+  "name": "correcthorse",
+  "version": "1.0.0",
+  "description": "See XKCD for reference!",
+  "main": "correcthorse.js",
+  "bin": {
+    "correcthorse": "./correcthorse"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bevacqua/correcthorse.git"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/correcthorse/issues"
+  },
+  "homepage": "https://github.com/bevacqua/correcthorse"
+}
