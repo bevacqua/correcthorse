@@ -6,8 +6,13 @@
 
 # Install
 
+Install it locally
 ```shell
 npm install correcthorse --save
+```
+or in global
+```shell
+npm install correcthorse -g
 ```
 
 # `correcthorse(options?)`
@@ -31,6 +36,16 @@ You can set a couple of options.
 $ correcthorse
 correct-horse-battery-staple
 ```
+
+# Language
+You can define a language to use :
+```shell
+$ correcthorse fr
+correct-cheval-batterie-base
+```
+
+## Add a language
+Just add a json file name wordlist-lang.json with the list of the words to use.
 
 # License
 
